@@ -1,0 +1,15 @@
+body {
+  font-family: system-ui;
+  padding: 32px;
+  font-size: 12px;
+}
+p {
+}
+h2 {
+  color: darkred;
+  font-size: 20px;
+}
+h3 {
+  color: darkgoldenrod;
+  font-size: 16px;
+}
